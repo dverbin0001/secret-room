@@ -115,7 +115,7 @@ Messages are **only decrypted** on the client **after the server confirms access
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/fabiconcept/secret-room
+git clone https://github.com/dverbin0001/secret-room
 
 # 2. Go to the project folder
 cd secret-room
@@ -153,7 +153,7 @@ npm run dev
 
 ## 🙌 Author
 
-Built with ❤️ by [Favour Tochukwu Ajokubi](https://github.com/dverbin0001)
+Built with ❤️ by [Denis Verbin](https://github.com/dverbin0001)
 
 ---
 
