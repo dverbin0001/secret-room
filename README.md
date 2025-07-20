@@ -153,7 +153,7 @@ npm run dev
 
 ## 🙌 Author
 
-Built with ❤️ by [Favour Tochukwu Ajokubi](https://github.com/fabiconcept)
+Built with ❤️ by [Favour Tochukwu Ajokubi](https://github.com/dverbin0001)
 
 ---
 
